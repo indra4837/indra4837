@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on mobile app development in Flutter and Computer Vision applications for Robotics.
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on mobile app development and AI for robotics
+- 🤔 I’m looking for help with native android development
+- 💬 Ask me about computer vision
+- 📫 How to reach me: indra4837@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i'm a carnivore
