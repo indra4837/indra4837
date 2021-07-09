@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with native android development
 - 💬 Ask me about computer vision
 - 📫 How to reach me: indra4837@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a carnivore
