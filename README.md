@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on web development in React + Django and Computer Vision applications for Robotics.
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on mobile app development and AI for robotics
-- 🤔 I’m looking for help with native android development
 - 💬 Ask me about computer vision
 - 📫 How to reach me: indra4837@gmail.com
 - ⚡ Fun fact: i'm a carnivore
