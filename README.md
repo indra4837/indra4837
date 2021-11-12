@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on web development in React + Django and Computer Vision applications for Robotics.
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on mobile app development and AI for robotics
+- 🔭 I’m currently working on web development in React and NodeJS and am interested in backend development
+- 🌱 I’m currently learning microservices
+- 👯 I’m looking to collaborate on web development (frontend)
 - 💬 Ask me about computer vision
 - 📫 How to reach me: indra4837@gmail.com
 - ⚡ Fun fact: i'm a carnivore
